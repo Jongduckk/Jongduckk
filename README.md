@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello Jongduckk!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20Jongduckk!&fontSize=50)
+
 
 ---
 
