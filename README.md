@@ -1,4 +1,4 @@
-## 👋 Profile
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello Jongduckk!&fontSize=50)
 
 ---
 
@@ -16,7 +16,7 @@
   (2025.03 ~ 2025.08)
 
 - **KT AIVLE School**
-- AI 개발자 트랙
+  - AI 개발자 트랙
   (2025.09 ~ )
 
 ---
