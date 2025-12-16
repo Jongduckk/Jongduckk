@@ -6,6 +6,14 @@
 <br>
 <br>
 
+## 🖐️ About Me
+
+Hi, there!
+I'm interested in **AI Agent** and **Data Analysis**.
+So, I'm currently studying AI Agent development and data analysis.
+
+---
+
 ## 💼 Activity
 
 - **Undergraduate Department AI-Software (Software)**  
