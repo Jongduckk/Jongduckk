@@ -9,7 +9,7 @@
 ## 🖐️ About Me
 
 Hi, there!  
-I'm interested in **AI Agent** and **Data Analysis**.  
+I'm interested in **AI Agent**, **Data Analysis** and **Product Management**.  
 So, I'm currently studying AI Agent development and data analysis.  
 
 ---
