@@ -9,21 +9,26 @@
 ## 🖐️ About Me
 
 Hi, there!  
-I'm interested in **AI Agent**, **Data Analysis** and **Product Management**.  
-So, I'm currently studying AI Agent development and data analysis.  
+I'm interested in **AI Agent**, **Data Analysis**, and **Analytics Engineering**.  
+So, I'm currently working as an **Analytics Engineer Intern at NAVER WEBTOON**.
+
+Feel free to reach out anytime!
 
 ---
 
 ## 💼 Activity
 
+- **NAVER WEBTOON Analytics Engineer Intern**  
+  Analytics Engineering Team (2026.04 ~ )
+
 - **Undergraduate Department AI-Software (Software)**  
-  Gachon University (2022.03 ~ )
+  Gachon University (2022.03 ~ 2026.02)
 
 - **빅데이터 분석 학회 BDA** - 9기, 10기 (2024.09 ~ 2025.08)
 
 - **데이터 분석 동아리 We-IT** - 7기 (2025.03 ~ 2025.08)
 
-- **KT AIVLE School** - AI 개발자 트랙 8기 (2025.09 ~ )
+- **KT AIVLE School** - AI 개발자 트랙 8기 (2025.09 ~ 2026.03)
 
 ---
 
