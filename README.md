@@ -43,8 +43,11 @@ Feel free to reach out anytime!
 
 ## 📜 Certifications
 
+- **정보처리기사**
+- **빅데이터분석기사**
+- **AICE Associate**
 - **ADsP** (데이터 분석 준전문가)
 - **SQLD** (SQL 개발자)
-- **AICE Associate**
+- **TOPCIT Level 3**
 
 ---
