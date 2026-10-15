@@ -19,7 +19,7 @@ Feel free to reach out anytime!
 ## 💼 Activity
 
 - **NAVER WEBTOON Analytics Engineer Intern**  
-  Analytics Engineering Team (2026.04 ~ )
+  Analytics Engineering Team (2026.04 ~ 2026.10)
 
 - **Undergraduate Department AI-Software (Software)**  
   Gachon University (2022.03 ~ 2026.02)
