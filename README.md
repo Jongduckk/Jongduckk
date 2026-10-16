@@ -10,7 +10,6 @@
 
 Hi, there!  
 I'm interested in **AI Agent**, **Data Analysis**, and **Analytics Engineering**.  
-So, I'm currently working as an **Analytics Engineer Intern at NAVER WEBTOON**.
 
 Feel free to reach out anytime!
 
