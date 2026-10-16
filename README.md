@@ -20,14 +20,14 @@ Feel free to reach out anytime!
 - **NAVER WEBTOON Analytics Engineer Intern**  
   Analytics Engineering Team (2026.04 ~ 2026.10)
 
-- **Undergraduate Department AI-Software (Software)**  
-  Gachon University (2022.03 ~ 2026.02)
-
 - **빅데이터 분석 학회 BDA** - 9기, 10기 (2024.09 ~ 2025.08)
 
 - **데이터 분석 동아리 We-IT** - 7기 (2025.03 ~ 2025.08)
 
 - **KT AIVLE School** - AI 개발자 트랙 8기 (2025.09 ~ 2026.03)
+
+- **Bachelor's Degree in Software**  
+  Gachon University (2022.03 ~ 2026.02)
 
 ---
 
